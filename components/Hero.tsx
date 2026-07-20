@@ -76,6 +76,10 @@ export default function Hero() {
             <MagneticButton href={socials.linkedin} className="btn ghost">
               LinkedIn ↗
             </MagneticButton>
+             <MagneticButton href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="btn ghost">
+  Resume ↗
+</MagneticButton>
+             
           </motion.div>
         </div>
 

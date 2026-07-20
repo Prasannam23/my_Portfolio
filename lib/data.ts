@@ -17,6 +17,7 @@ export const navItems = [
 ];
 
 export const liveLinks = [
+   { label: "Resume", href: "/resume.pdf" },
   { label: "QualityVeda", href: "https://qualityveda.co/" },
   { label: "TBI Portal", href: "https://www.tbi-kiet.in/" },
   { label: "Scribble", href: "https://scribble-frontend-six.vercel.app/" },
